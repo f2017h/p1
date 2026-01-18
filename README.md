@@ -26,4 +26,4 @@ git checkout main
 ## Testing the README text
 Here is a link to [Environment document](https://docs.google.com/document/d/1RJ2JWbwRQtjy-I2qIoxQx-vf-hJ4u2ssAHEOPfJ-Fjk/edit?usp=sharing)
 
-![Picture of tapas](https://spainonafork.com/10-incredible-3-ingredient-spanish-tapas/)
+![Picture of cat](https://myoctocat.com/assets/images/base-octocat.svg)
